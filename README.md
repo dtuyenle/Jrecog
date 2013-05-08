@@ -2,17 +2,17 @@
 <h2 align="center">javascript plugin - simple - easy to use</h2>
 This plugin is JQuery independence. This plugin was developed for touch devices. You will not see how it works without trying it on touch devices.
 
-With the future trend of using touch screen devices, more and more people using mobile and tablet devices. Unlike computer screen, touch devices have very limited space. The more space saved for main content usage, the better it is. This is the reason i came up with mslider. Using your finger, draw something on the screen to make either the menu or popup shows up or any creative ways you come up with by executing a callback function. 
+With the future trend of using touch screen devices, more and more people using mobile and tablet devices. Unlike computer screen, touch devices have very limited space. The more space saved for main content usage, the better it is. This is the reason i came up with jrecog. Using your finger, draw something on the screen to make either the menu or popup shows up or any creative ways you come up with by executing a callback function. 
 
-<h3>You can simply init mslider with one line: mslider(callback)</h3>
+<h3>You can simply init jrecog with one line: jrecog(callback)</h3>
 
-// mslider is JQuery independence which means you don't need JQuery to run it.
+// jrecog is JQuery independence which means you don't need JQuery to run it.
 // In this example i am using JQuery just to illustrate.
  
 <pre>$(function(){
 
-	// mslider is tied to the DOM, pass callback function as parameter
-	mslider(callback);
+	// jrecog is tied to the DOM, pass callback function as parameter
+	jrecog(callback);
 	
 	// This is the function you call to show up the menu
 	function callback() {   
@@ -30,7 +30,7 @@ Firefox Browser for IOS and Android (Firefox is buggy and it only works when you
 
 <h3>How it works</h3>
 
-Please go to <a href="http://mslider.co.nf/">mslider</a> to know how this plugin works.
+Please go to <a href="http://jrecog.co.nf/">jrecog</a> to know how this plugin works.
 
 <h3>Discussion</h3>
 
@@ -127,6 +127,6 @@ document.addEventListener("touchstart",touchstartfunction,false);</pre>
 
 <h3>Future Improvement</h3>
 
-More browsers will be supported in the future. Currently although mslider does detect if the browser is supported or not if not it would not init. But i would recommend to use another third party library such as modernizr. Feel free to use any images or usage description from this page for your products.
+More browsers will be supported in the future. Currently although jrecog does detect if the browser is supported or not if not it would not init. But i would recommend to use another third party library such as modernizr. Feel free to use any images or usage description from this page for your products.
 
-Go to the <a href="http://mslider.co.nf/">main page</a> to see how it works and more information, specially check out the interactive example on your touch devices.
+Go to the <a href="http://jrecog.co.nf/">main page</a> to see how it works and more information, specially check out the interactive example on your touch devices.
