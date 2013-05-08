@@ -1,4 +1,4 @@
-<h1 align="center">mslider.js</h1>
+<h1 align="center">jrecog.js</h1>
 <h2 align="center">javascript plugin - simple - easy to use</h2>
 This plugin is JQuery independence. This plugin was developed for touch devices. You will not see how it works without trying it on touch devices.
 
