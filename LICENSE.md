@@ -2,7 +2,7 @@ Copyright (c) <2013> <Tuyen Le> http://tlportfolio.my-board.org/
 
 Copyright 2012-2013, Tuyen Le Released under the MIT License .
 
-JResponsive is authored and maintained by Tuyen Le with help from its users who contributed testing cases.
+Jrecog is authored and maintained by Tuyen Le with help from its users who contributed testing cases.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 associated documentation files (the "Software"), to deal in the Software without restriction, including
