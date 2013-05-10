@@ -29,10 +29,16 @@
 		<script src="jrecog.js"></script>
 		<script>
 		$(function(){
-			jrecog(callback);
-			function callback() {
-				alert('jrecog is successfully called');
-			}		
+			jrecog({k:callbackk,a:callbacka,u:callbacku});
+			function callbackk() {
+				alert('You just draw gesture k');
+			}
+			function callbacka() {
+				alert('You just draw gesture a')
+			}
+			function callbacku(){
+				alert('You just draw gesture u')
+			}
 		});
 		</script>
 	</body>
