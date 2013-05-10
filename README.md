@@ -4,17 +4,17 @@ This plugin is JQuery independence. This plugin was developed for touch devices.
 
 With the future trend of using touch screen devices, more and more people using mobile and tablet devices. Unlike computer screen, touch devices have very limited space. The more space saved for main content usage, the better it is. This is the reason i came up with jrecog. Using your finger, draw something on the screen to make either the menu or popup shows up or any creative ways you come up with by executing a callback function. 
 <h3>You can simply init jrecog with one line, the syntax is quite the same as JQuery:</h3>
-		<pre><i>jrecog({
+<pre><i>jrecog({
 	k:callbackk,
 	a:callbacka,
 	u:callbacku
 })</i></pre>
-		<h3 style="font-size:14px;color:#ED5E2F">
-			Each of variable: k,a,u represents a gesture, you can choose to use all of 3 gestures
-			or just one or just two of them. Each gesture is tied to one function. Currently Jrecog only supports 3 gestures.
-			Read section "How it works" to know how to draw each of the gesture on the screen.
-		</h3>
-		<pre>
+<h3 style="font-size:14px;color:#ED5E2F">
+Each of variable: k,a,u represents a gesture, you can choose to use all of 3 gestures
+or just one or just two of them. Each gesture is tied to one function. Currently Jrecog only supports 3 gestures.
+Read section "How it works" to know how to draw each of the gesture on the screen.
+</h3>
+<pre>
 // jrecog is JQuery independence which means you don't need JQuery to run it.
 // You can still use JQuery or any javascript library for other usuage.
 // In this example i only use 1 gesture: k
