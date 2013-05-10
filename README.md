@@ -42,7 +42,7 @@ Firefox Browser for IOS and Android (Firefox is buggy and it only works when you
 
 <h3>How it works</h3>
 
-Please go to <a href="http://jrecog.co.nf/">jrecog</a> to know how this plugin works.
+Please go to <a href="http://jrecog.is-great.net/">jrecog</a> to know how this plugin works.
 
 <h3>Discussion</h3>
 
@@ -141,4 +141,4 @@ document.addEventListener("touchstart",touchstartfunction,false);</pre>
 
 More browsers will be supported in the future. Currently although Jrecog does detect if the browser is supported or not if not it would not init. But i would recommend to use another third party library such as modernizr. Feel free to use any images or usage description from this page for your products.
 
-Go to the <a href="http://jrecog.co.nf/">main page</a> to see how it works and more information, specially check out the interactive example on your touch devices.
+Go to the <a href="http://jrecog.is-great.net/">main page</a> to see how it works and more information, specially check out the interactive example on your touch devices.
